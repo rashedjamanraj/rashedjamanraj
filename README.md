@@ -4,7 +4,7 @@ Full Stack JavaScript Developer. Developing web, web app & Superior Software for
 -------------------------------
 
 * 🌍  I'm based in Dhaka, Bangladesh <br/>
-* ![GitHub Logo](https://img.shields.io/badge/-181717.svg?style=for-the-badge&logo=github&logoColor=white&label=&logoWidth=90) See my portfolio at [My PortFolio](http://github.com/rjr-dx)<br />
+* ![GitHub Logo](https://img.shields.io/badge/-181717.svg?style=for-the-badge&logo=github&logoColor=white&label=&logoWidth=90) See my portfolio at [My PortFolio](http://github.com/rjr-dx-pro)<br />
 * <img src="https://img.icons8.com/color/48/000000/gmail.png" width="15"/>  You can contact me at [rashed.rjr.dx@gmail.com](mailto:rashed.rjr.dx@gmail.com)
 
 
@@ -31,12 +31,12 @@ Full Stack JavaScript Developer. Developing web, web app & Superior Software for
 ## 📊 My GitHub Stats
 ### Badges
 
-<a href="http://www.github.com/rjr-dx"><img
-    src="https://github-readme-stats.vercel.app/api?username=rjr-dx&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true"
-    alt="rjr-dx's GitHub stats" /></a>
+<a href="http://www.github.com/rjr-dx-pro"><img
+    src="https://github-readme-stats.vercel.app/api?username=rjr-dx-pro&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true"
+    alt="rjr-dx-pro's GitHub stats" /></a>
 
-<a href="https://github.com/rjr-dx" align="left"><img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjr-dx&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages"
+<a href="https://github.com/rjr-dx-pro" align="left"><img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjr-dx-pro&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages"
     alt="Top Languages" /></a>
 
 ---
@@ -61,12 +61,12 @@ Full Stack JavaScript Developer. Developing web, web app & Superior Software for
 ---
 
 ## 🏆 Achievements
-![](https://github-profile-trophy.vercel.app/?username=rjr-dx&theme=dark&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=rjr-dx-pro&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
 ## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rashedjamanraj) [![X](https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=x&logoColor=white&logoWidth=40)](https://x.com/RashedJamanRaj) [![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)](http://github.com/rjr-dx) [![Facebook](https://img.shields.io/badge/Facebook-1877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/RasedJamanRaj)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rashedjamanraj) [![X](https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=x&logoColor=white&logoWidth=40)](https://x.com/RashedJamanRaj) [![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)](http://github.com/rjr-dx-pro) [![Facebook](https://img.shields.io/badge/Facebook-1877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/RasedJamanRaj)
 
 
 
